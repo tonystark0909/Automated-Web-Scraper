@@ -1,5 +1,4 @@
 # Automated-Web-Scraper
-A Python GUI app that scrapes job listings from websites with optional JavaScript rendering using Selenium and allows saving results as CSV.
 This is a Python application with a GUI built using CustomTkinter that scrapes job listings from websites with optional Selenium support.
 
 ## Features
